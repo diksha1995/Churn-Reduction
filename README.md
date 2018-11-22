@@ -1,2 +1,2 @@
 # ChurnReduction
-This is my Churn Reduction Project Of Data Science
+Data Analytics Project to predict the customer behaviour.
